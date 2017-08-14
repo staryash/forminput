@@ -1,5 +1,5 @@
 {
-  "name": "magento-inputs",
+  "name": "magento-input",
   "version": "1.0.0",
   "description": "This will load any static html site",
   "scripts": {
